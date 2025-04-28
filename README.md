@@ -11,6 +11,6 @@ An end-to-end machine learning project to predict house prices based on various 
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/End-to-End-ML-Projects.git
+git clone https://github.com/jordantundo/End-to-End-ML-Projects.git
 cd End-to-End-ML-Projects/house_price_prediction
 pip install -r requirements.txt
